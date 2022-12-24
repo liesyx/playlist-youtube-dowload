@@ -6,3 +6,4 @@ input this link and enjoy it XD
 - pytube
 # Install the dependencies:
 $ pip install pytube3
+$ python
