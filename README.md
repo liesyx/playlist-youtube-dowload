@@ -5,6 +5,6 @@ input this link and enjoy it XD
 - Python 3.8 or higher
 - pytube
 # Install the dependencies:
-pip install pytube3
+- pip install pytube3
 # Run
-python ytplaylistdowloader.py
+- python ytplaylistdowloader.py
