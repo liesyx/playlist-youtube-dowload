@@ -4,3 +4,4 @@ input this link and enjoy it XD
  # Requirement
 - Python 3.8 or higher
 - pytube
+# Install the dependencies:
